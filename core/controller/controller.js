@@ -4,7 +4,6 @@
  * 
  */
 
-var clientConfiguration = require("./configuration");
 var deviceCommunication = require("../deviceIntegration/deviceCommunication");
 var eventPublisher = require("../eventsHandler/localEventHandler");
 var eventID = require("../eventsHandler/EventID");
