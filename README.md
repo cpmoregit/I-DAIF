@@ -1,2 +1,2 @@
 # I-DAIF - Iot-Device Agent Integration Framework
-Iot-Device Agent Integration Frameworkframework is framework for devices to integrate with IBMiotf. 
+Iot-Device Agent Integration framework(a.k.a I-DAIF) is a bootstrap framework to develop device agents to integrate with IBMiotf.
