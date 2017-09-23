@@ -4,12 +4,12 @@
 //var clientConfiguration = require("../controller/configuration");
 var mqttClient = require("ibmiotf");
 var config = {
-	    "org" : "4x0xfz",
-	    "id" : "vsd-001",
+	    "org" : "quickstart",
+	    "id" : "ibmid",
 	    "domain": "internetofthings.ibmcloud.com",
-	    "type" : "VirtualSampleDevice",
+	    "type" : "sampledevice",
 	    "auth-method" : "token",
-	    "auth-token" : "b?@b!y+wU7W1EIxScM"
+	    "auth-token" : "ibmtoken"
 	};
 
 function publish(message){
